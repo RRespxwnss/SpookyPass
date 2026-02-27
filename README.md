@@ -1,5 +1,5 @@
 # Description
-SpookyPass is a reverse engineering lab that involves analyzing a compiled binary in order to understand its internal logic and uncover the implemented authentication mechanism. When starting the challenge, the program presents a simple “spooky”-themed interface and prompts the user to enter a password, returning an error message if the provided value is incorrect.
+SpookyPass is a reverse engineering lab from Hack The Box that involves analyzing a compiled binary in order to understand its internal logic and uncover the implemented authentication mechanism. When starting the challenge, the program presents a simple “spooky”-themed interface and prompts the user to enter a password, returning an error message if the provided value is incorrect.
 
 # Initial Reconnaissance
 To begin the analysis, two initial reconnaissance steps were performed. The first used the Certutil utility to inspect the binary and gather relevant information about its structure and any embedded data. Next, the Strings tool was applied to extract readable text from the executable, allowing the identification of sensitive information, validation patterns, or clues about the application's internal logic.
