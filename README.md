@@ -1,5 +1,3 @@
-<h1>SpookyPass</h1>
-
 # Description
 SpookyPass is a reverse engineering lab that involves analyzing a compiled binary in order to understand its internal logic and uncover the implemented authentication mechanism. When starting the challenge, the program presents a simple “spooky”-themed interface and prompts the user to enter a password, returning an error message if the provided value is incorrect.
 
