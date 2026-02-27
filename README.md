@@ -11,9 +11,15 @@ These initial analyses were essential for guiding the next steps of the reverse 
 Therefore, it became necessary to proceed with a more detailed static analysis of the binary, aiming to fully understand the validation logic implemented and confirm the internal behavior of the application.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eee98407-b43e-415e-914a-65b1cdd67365" width="32%"/>
-  <img src="https://github.com/user-attachments/assets/40c0f36d-1a65-4f73-b8f2-c4f4c36a9c42" width="32%"/>
-  <img src="https://github.com/user-attachments/assets/8a38aad9-e7f5-4123-b152-7a6aa5bf40dc" width="32%"/>
+  <img src="https://github.com/user-attachments/assets/eee98407-b43e-415e-914a-65b1cdd67365" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40c0f36d-1a65-4f73-b8f2-c4f4c36a9c42" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a38aad9-e7f5-4123-b152-7a6aa5bf40dc" width="800"/>
 </p>
 
 # Ghidra Analysis
@@ -34,26 +40,47 @@ This understanding was crucial to completing the challenge, demonstrating how th
 See the images below.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cabefa3-b0e7-4db3-b7b2-a288956c7259" width="32%"/>
-  <img src="https://github.com/user-attachments/assets/c48ec8a6-c920-4836-ac74-d2fcc6d8db1a" width="32%"/>
-  <img src="https://github.com/user-attachments/assets/d6926908-f394-4a2b-a955-d9cbf767cab8" width="32%"/>
+  <img src="https://github.com/user-attachments/assets/6cabefa3-b0e7-4db3-b7b2-a288956c7259" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e15d48c7-3c64-4b7f-b9c4-4fd4c15db42a" width="32%"/>
-  <img src="https://github.com/user-attachments/assets/a3dc2ff7-0f64-4fe2-8b65-d442d356873f" width="32%"/>
-  <img src="https://github.com/user-attachments/assets/bf57e347-4fb3-4df0-b4c1-d9170fce5dd8" width="32%"/>
+  <img src="https://github.com/user-attachments/assets/c48ec8a6-c920-4836-ac74-d2fcc6d8db1a" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3bcbe410-26ca-4356-b03e-cee5cd64ab6b" width="32%"/>
-  <img src="https://github.com/user-attachments/assets/de9e7539-32d6-48eb-9cf3-3aca1cce7728" width="32%"/>
-  <img src="https://github.com/user-attachments/assets/653589c4-dbf2-45bb-a9e5-0d90f7b1a55c" width="32%"/>
+  <img src="https://github.com/user-attachments/assets/d6926908-f394-4a2b-a955-d9cbf767cab8" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3700cdc2-0cc4-426f-a8f8-b79971dbb458" width="49%"/>
-  <img src="https://github.com/user-attachments/assets/4c753dca-163b-4fcb-b5cb-46cc3914f7b1" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/e15d48c7-3c64-4b7f-b9c4-4fd4c15db42a" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a3dc2ff7-0f64-4fe2-8b65-d442d356873f" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf57e347-4fb3-4df0-b4c1-d9170fce5dd8" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3bcbe410-26ca-4356-b03e-cee5cd64ab6b" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de9e7539-32d6-48eb-9cf3-3aca1cce7728" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/653589c4-dbf2-45bb-a9e5-0d90f7b1a55c" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3700cdc2-0cc4-426f-a8f8-b79971dbb458" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c753dca-163b-4fcb-b5cb-46cc3914f7b1" width="800"/>
 </p>
 
 
